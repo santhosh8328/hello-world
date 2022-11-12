@@ -5,6 +5,7 @@
   <h2>Hello User </h2>
   <h2>thank you </h2> 
   <h2>hello santhosh how are you </h2>
+  <h2> how is the day </h2>
 
   <div class="input-container">
     <i class="fa fa-user icon"></i>

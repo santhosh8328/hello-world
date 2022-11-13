@@ -1,11 +1,6 @@
 <form action="/action_page.php">
   <h2>Register Form</h2>
-  <h1>login</h1>
-  <h2> contact</h2>
-  <h2>Hello User </h2>
-  <h2>thank you </h2> 
-  <h2>hello santhosh how are you </h2>
-  <h2> how is the day </h2>
+  <h1>Login</h2>
 
   <div class="input-container">
     <i class="fa fa-user icon"></i>
